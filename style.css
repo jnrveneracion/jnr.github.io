@@ -1,20 +1,17 @@
- 
- h1 {
-     color:teal;
-     padding: 100px;
-     background-color: wheat;
+body {
      text-align: center;
      font-family: Georgia, 'Times New Roman', Times, serif;
      margin: 20px;
      border-radius: 20px;
+     padding: 100px;
+}
+
+ h1 {
+     color:teal;
+     background-color: wheat;
  }
 
  h1:hover {
     color:wheat;
-    padding: 100px;
     background-color: teal;
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 20px;
-    border-radius: 20px;
  }
